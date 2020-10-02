@@ -1,2 +1,2 @@
 File dummy untuk testing pull dengan sublime merge
-Testing merge from local
+Tes merge
